@@ -1,0 +1,1 @@
+# Intepretador-E-Tradutor-MiniPascal
